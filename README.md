@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# E-COMMERCE-PLATFORM-1
+This is frontend fully functional E-Commerce-Platform made with MERN stack technology, to make it work fully you have to run its backend simultaneously with the frontend. You can find the backend as :-E-COMMERCE-BACKEND-1 link="https://github.com/kavyabhatt6022/E-COMMERCE-BACKEND-1" in my github.
+>>>>>>> c70243379f1c998b13e6b208c55a0a995fe83857
